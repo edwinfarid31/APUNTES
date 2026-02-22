@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ceed8f7b92c35d65","x":-440,"y":-60,"width":1100,"height":1060,"color":"3","type":"group","label":"Eficiencia de un motor electrico"},
+		{"id":"60303e3faf84f72b","type":"text","text":"**Eficiencia en motores eléctricos**\nAl momento de calcular las perdidas en un motor eléctrico tenemos cuatro términos sumando $k_cT^2+k_i\\omega+k_\\omega\\omega^3+c$\n$k_cT^2$ :perdida de cobre \n$k_i\\omega$ : perdida de hierro \n$k_\\omega\\omega^3$ : perdida aerodinámica\n$C$ : perdidas constantes \n\n\n","x":160,"y":-40,"width":360,"height":240},
+		{"id":"5fcfa90f19576fca","type":"text","text":"**¿Qué me indica la eficiencia de un motor eléctrico?**\nMe indica que tanta potencia eléctrica es convertida a potencia mecánica. ","x":-260,"y":-40,"width":320,"height":160},
+		{"id":"24bb6f778fd6ce7f","type":"text","text":"**que me indiaca la perdida de cobre en un motor eléctrico**\nEsta me indica la perdida ocasionada por la resistencia en los devanados de un motor ","x":-360,"y":148,"width":320,"height":162},
+		{"id":"4f2c9049b9199f97","type":"text","text":"**que me indica la perdida de hierro y cuales son las dos causas de este** \n\nMe indica las perdida ocasionada por los componentes de hierro y las dos causas son:\n- la magnetización y desmagnetización del hierro.\n- el campo magnético variante induce una corriente en el hierro lo que calienta el hierro. ","x":-420,"y":310,"width":320,"height":320},
+		{"id":"7b74147990dde0bb","type":"text","text":"**que es la resistencia aerodinámica de un motor eléctrico**\n\nes la resistencia que presencia el rotor debido al aire.","x":240,"y":229,"width":360,"height":141},
+		{"id":"4a8a5741123b4b2b","type":"text","text":"**que es el termino C en la expresión de perdida en la eficiencia del motor y de un ejemplo **\n\nhace referencia a las perdidas constantes como la del motor en modo estacionario o la potencia consumida por el controlador ","x":240,"y":420,"width":360,"height":210},
+		{"id":"8cbb2124dfdd50fb","type":"text","text":"El mapa de eficiencia de un motor eléctrico es un  mapa mecánico que podemos hacer si conocemos:\n* *el error de cobre* \n* *el error de hierro*\n* *el error de resistencia aerodinámica* \n* *constante de potencia constante.* ","x":-420,"y":680,"width":405,"height":240},
+		{"id":"15caaeb536343061","type":"text","text":"El mapa de eficiencia de un  motor eléctrico tenemos dos curvas una es la curva de eficiencia  donde esta curva funciona como **isla por lo que lo que este contenida dentro de ella varia en un rango cercano a ese valor** y por ultimo tenemos la curva de potencia donde esta no funciona como **isla y solo el valor indicado es el que esta sobre la curva** \"en el **contorno**\"","x":160,"y":740,"width":480,"height":240}
+	],
+	"edges":[
+		{"id":"2a828af2d7f38482","fromNode":"60303e3faf84f72b","fromSide":"left","toNode":"24bb6f778fd6ce7f","toSide":"right"},
+		{"id":"1b9a04991eb9117c","fromNode":"60303e3faf84f72b","fromSide":"left","toNode":"4f2c9049b9199f97","toSide":"right"},
+		{"id":"bfc867d7df55c5e0","fromNode":"60303e3faf84f72b","fromSide":"left","toNode":"7b74147990dde0bb","toSide":"left"},
+		{"id":"c1bccccd86047d8e","fromNode":"60303e3faf84f72b","fromSide":"left","toNode":"4a8a5741123b4b2b","toSide":"left"}
+	]
+}

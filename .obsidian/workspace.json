@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "ec3155b7fec6529d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d04e7188e0c661c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76fa5a1bdac07391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UNIVERSIDAD/Matlab/Lenguaje De Programacion/2.0 Vectores y matrices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.0 Vectores y matrices"
+            }
+          },
+          {
+            "id": "e1feb0a3d476c8b3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a88e4b236608f18f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaff967b918a8b4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5832a9ba2c1e5dfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "6ebbbcd35b2dcd15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#MATLAB",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "eb6243f1a81c3239",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbb56248d3a52f25",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d50ffd6b471590e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dda83258668d4e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "e1ac1d76252f6119",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "7eb4ad2fa65cccac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "19c45d8d1f9facc2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "64d7122e6244ecdd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6ebbbcd35b2dcd15",
+  "lastOpenFiles": [
+    "UNIVERSIDAD/Circuitos electricos/Circuitos II/3.1 Análisis de potencia CA.md",
+    "UNIVERSIDAD/Matlab/Lenguaje De Programacion/2.0 Vectores y matrices.md",
+    "UNIVERSIDAD/Circuitos electricos/Circuitos II",
+    "UNIVERSIDAD/Circuitos electricos",
+    "UNIVERSIDAD/Matlab/Lenguaje De Programacion/1.Básicos.md",
+    "UNIVERSIDAD/Electronica industrial/1. Diodos semiconductores.md",
+    "UNIVERSIDAD/Electronica industrial/Sin título.md",
+    "PROGRAMACION/GIT/1 Introducción a GIT.md",
+    "1.Diodos semiconductores",
+    "UNIVERSIDAD/Electronica industrial/recursos",
+    "UNIVERSIDAD/Electronica industrial",
+    "UNIVERSIDAD/Matlab/Lenguaje De Programacion/2.1 Linspace y matriz aleatoria.md",
+    "UNIVERSIDAD/Matlab/Lenguaje De Programacion/MATLAB lenguaje.canvas",
+    "PROGRAMACION/GIT/1.2 Github.md",
+    "AUTOS ELECTRICOS/Motores/1.Modelo matemático y análisis de las características del motor.md",
+    "AUTOS ELECTRICOS/Motores/EFICENCIA MOTOR.md",
+    "AUTOS ELECTRICOS/recursos/motor_BLCD.png",
+    "UNIVERSIDAD/Teoría electromagnética/Fuerza de Lorentz.md",
+    "PROGRAMACION/GIT/Preguntas.canvas",
+    "PROGRAMACION/recursos",
+    "PROGRAMACION/GIT",
+    "PROGRAMACION",
+    "UNIVERSIDAD/Matlab/recursos/secuencia.png",
+    "UNIVERSIDAD/Matlab/recursos/matriz.png",
+    "UNIVERSIDAD/Matlab/recursos",
+    "AUTOS ELECTRICOS/Motores/Anki motores.canvas",
+    "UNIVERSIDAD/Matlab/Lenguaje De Programacion",
+    "AUTOS ELECTRICOS/recursos/curva_eficiencia_motor.png",
+    "UNIVERSIDAD/Teoría electromagnética/Recursos/trayectoria_fuerza_lorenz.png",
+    "UNIVERSIDAD/Teoría electromagnética/Recursos/mano_derecha.png",
+    "1. MOTORES SINCRONOS.md"
+  ]
+}
