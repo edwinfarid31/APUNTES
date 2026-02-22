@@ -36,11 +36,10 @@ La grafica puede contener curvas de eficiencia y curvas de potencia y saber inte
 >[!NOTE] curva de eficiencia y potencia 
 >la curva de eficiencia es una región 
 >la curva de potencia es una lineal.
-
-<p align="center">
-  <img src="recursos/curva_eficiencia_motor.png" >
-  <br>
-  <em>Figura 1.  Curva de eficiencia de un motor de 100KW</em>
+<p align="center">  
+<img src="../recursos/curva_eficiencia_motor.png">  
+<br>  
+<em>Figura 1. Curva de eficiencia de un motor de 100 kW</em>  
 </p>
 ##### Curvas de eficiencias
 Las curvas de eficiencia funcionan como islas por lo que dentro de ellas el valor es de una eficiencia similar o mayor al valor al valor de la curva que lo contiene en la isla "el contorno". 
