@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d04e7188e0c661c0",
+        "id": "1a080ee4d2f3999b",
         "type": "tabs",
         "children": [
           {
-            "id": "76fa5a1bdac07391",
+            "id": "0ea4ca8162ebfd36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNIVERSIDAD/Matlab/Lenguaje De Programacion/2.0 Vectores y matrices.md",
+                "file": "UNIVERSIDAD/Control/2 Sistemas de segundo orden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.0 Vectores y matrices"
-            }
-          },
-          {
-            "id": "e1feb0a3d476c8b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AUTOS ELECTRICOS/Motores/EFICENCIA MOTOR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EFICENCIA MOTOR"
+              "title": "2 Sistemas de segundo orden"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,14 +183,35 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5832a9ba2c1e5dfb",
+  "active": "0ea4ca8162ebfd36",
   "lastOpenFiles": [
+    "UNIVERSIDAD/Control/1.2 Respuesta escalón unitario  de sistemas de primer orden.md",
+    "UNIVERSIDAD/Control/2 Sistemas de segundo orden.md",
+    "UNIVERSIDAD/Control/1.1 Sistemas de primer orden.md",
+    "UNIVERSIDAD/Control/recursos/curva_exponencial.png",
+    "UNIVERSIDAD/Control/recursos/rest_creciente_1_orden.png",
+    "^212bb0.md",
+    "UNIVERSIDAD/Electronica industrial/1. Diodos semiconductores.md",
     "UNIVERSIDAD/Circuitos electricos/Circuitos II/3.1 Análisis de potencia CA.md",
+    "UNIVERSIDAD/Control/recursos/rest_decreciente_1_orden.png",
+    "UNIVERSIDAD/Control/recursos",
+    "UNIVERSIDAD/Control/5 Análisis de la respuesta transitoria y estacionaria.md",
+    "UNIVERSIDAD/Control",
+    "UNIVERSIDAD/Electronica industrial/1.3 Comportamiento dinámico del diodo.md",
+    "UNIVERSIDAD/Electronica industrial/Preguntas quiz.canvas",
+    "UNIVERSIDAD/Electronica industrial/recursos/Recuperacion_inversa.png",
+    "UNIVERSIDAD/Electronica industrial/1.2 regiones de operación.md",
+    "UNIVERSIDAD/Electronica industrial/recursos/TiempoRecuperacion.png",
+    "UNIVERSIDAD/Electronica industrial/recursos/polarizacion_diodo.png",
+    "UNIVERSIDAD/Electronica industrial/recursos/diodo.svg",
+    "AUTOS ELECTRICOS/Motores/EFICENCIA MOTOR.md",
+    "AUTOS ELECTRICOS/Motores/1.Modelo matemático y análisis de las características del motor.md",
+    "AUTOS ELECTRICOS/Motores/Anki motores.canvas",
+    "UNIVERSIDAD/Teoría electromagnética/Fuerza de Lorentz.md",
     "UNIVERSIDAD/Matlab/Lenguaje De Programacion/2.0 Vectores y matrices.md",
     "UNIVERSIDAD/Circuitos electricos/Circuitos II",
     "UNIVERSIDAD/Circuitos electricos",
     "UNIVERSIDAD/Matlab/Lenguaje De Programacion/1.Básicos.md",
-    "UNIVERSIDAD/Electronica industrial/1. Diodos semiconductores.md",
     "UNIVERSIDAD/Electronica industrial/Sin título.md",
     "PROGRAMACION/GIT/1 Introducción a GIT.md",
     "1.Diodos semiconductores",
@@ -214,22 +220,13 @@
     "UNIVERSIDAD/Matlab/Lenguaje De Programacion/2.1 Linspace y matriz aleatoria.md",
     "UNIVERSIDAD/Matlab/Lenguaje De Programacion/MATLAB lenguaje.canvas",
     "PROGRAMACION/GIT/1.2 Github.md",
-    "AUTOS ELECTRICOS/Motores/1.Modelo matemático y análisis de las características del motor.md",
-    "AUTOS ELECTRICOS/Motores/EFICENCIA MOTOR.md",
     "AUTOS ELECTRICOS/recursos/motor_BLCD.png",
-    "UNIVERSIDAD/Teoría electromagnética/Fuerza de Lorentz.md",
     "PROGRAMACION/GIT/Preguntas.canvas",
     "PROGRAMACION/recursos",
     "PROGRAMACION/GIT",
     "PROGRAMACION",
     "UNIVERSIDAD/Matlab/recursos/secuencia.png",
     "UNIVERSIDAD/Matlab/recursos/matriz.png",
-    "UNIVERSIDAD/Matlab/recursos",
-    "AUTOS ELECTRICOS/Motores/Anki motores.canvas",
-    "UNIVERSIDAD/Matlab/Lenguaje De Programacion",
-    "AUTOS ELECTRICOS/recursos/curva_eficiencia_motor.png",
-    "UNIVERSIDAD/Teoría electromagnética/Recursos/trayectoria_fuerza_lorenz.png",
-    "UNIVERSIDAD/Teoría electromagnética/Recursos/mano_derecha.png",
     "1. MOTORES SINCRONOS.md"
   ]
 }
